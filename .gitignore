@@ -1,0 +1,8 @@
+*~
+*.o
+configure
+config.*
+Makefile
+doc/
+pkgIndex.tcl
+.gse
